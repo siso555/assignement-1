@@ -9,6 +9,7 @@ public class Davaleba {
         int b = scanner.nextInt();
         int sum = a + b;
         System.out.println("ჯამი: " + sum);
+        System.out.println("commit");
 
     }
 }
